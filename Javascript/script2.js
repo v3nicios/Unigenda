@@ -7,12 +7,7 @@ document.addEventListener('DOMContentLoaded', iniciarNeveNaipes);
 
 
 
-const urlParams = new URLSearchParams(window.location.search);
-if (urlParams.has("dev")) {
-    document.getElementById("qrcode").style.display = "flex";
-} else {
-    document.getElementById("qrcode").style.display = "none";
-}
+
 const btnFotoVeni = document.getElementById('fotodoveni');
 
 
