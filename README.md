@@ -19,6 +19,7 @@ Para facilitar a identificação visual e priorização de tarefas, o sistema ut
 
 ## 🎨 Identidade Visual
 A estética do projeto foi inspirada na cinematografia do filme *"Devoradores de Estrelas - 2026"  (Project Hail Mary - 2026)*. A paleta utiliza um contraste profundo de tons verdes e acentos vibrantes, criando uma interface imersiva e moderna.
+##
 ![alt text](images/image.png)
 ## 🛠️ Tecnologias Utilizadas
 - **HTML5:** Estrutura semântica.
