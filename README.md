@@ -32,6 +32,6 @@ A estética do projeto foi inspirada na cinematografia do filme *"Devoradores de
 3. **Gerenciador de Atividades (`atividades.html`):** Lista detalhada e controle de status.
 
 ## Como acessar ? 
-Neste prototipo ainda não tem uma autenticação de login verdadeira entao para acessar o site basta:  
-Login: Qualquer email que voce
-Senha: Qualquer senha 
+Neste prototipo ainda não tem uma autenticação de login verdadeira então para acessar o site basta:  
+Login: Qualquer email que você tenha.
+Senha: Qualquer senha. 
