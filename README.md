@@ -24,7 +24,7 @@ A estética do projeto foi inspirada na cinematografia do filme *"Devoradores de
 ## 🛠️ Tecnologias Utilizadas
 - **HTML5:** Estrutura semântica.
 - **CSS3:** Variáveis CSS, Flexbox e Grid.
-- **JavaScript (Vanilla):** Lógica de datas, cálculos de prazos e `localStorage`.
+- **JavaScript :** Lógica de datas, cálculos de prazos e `localStorage`.
 
 ## 📂 Estrutura de Telas
 1. **Login (`index.html`):** Portal de acesso.
